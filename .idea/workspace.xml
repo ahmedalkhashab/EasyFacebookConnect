@@ -7,7 +7,7 @@
         <option name="deviceConfiguration" value="Portrait" />
         <option name="localeLanguage" value="es" />
         <option name="targetHashString" value="android-16" />
-        <option name="theme" value="AppTheme" />
+        <option name="theme" value="Theme" />
       </profile>
     </option>
     <option name="selection" value="[Full]" />
@@ -19,7 +19,8 @@
         <option name="dockMode" value="" />
         <option name="nightMode" value="notnight" />
         <option name="targetHashString" value="android-16" />
-        <option name="theme" value="AppTheme" />
+        <option name="theme" value="Theme" />
+        <option name="visible" value="false" />
       </GlobalState>
     </option>
   </component>
@@ -27,15 +28,15 @@
     <list default="true" id="334311a2-4aea-47e2-b76f-1dd175fb1277" name="Default" comment="" />
     <ignored path="EasyFacebookConnect.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366881976008" ignored="false" />
+    <file path="/fragment.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367923270971" ignored="false" />
     <file path="/EasyFacebookActivity.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366886440126" ignored="false" />
-    <file path="/HomeActivity.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366887132264" ignored="false" />
+    <file path="/HomeActivity.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367930732079" ignored="false" />
     <file path="/FacebookPreference.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1365233258279" ignored="false" />
     <file path="/UserPreference.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1365238658733" ignored="false" />
-    <file path="/FacebookUser.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1365238313005" ignored="false" />
+    <file path="/FacebookUser.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367929474166" ignored="false" />
     <file path="/FacebookResponse.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1365239531408" ignored="false" />
     <file path="/ResponsePreference.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1365239158030" ignored="false" />
-    <file path="/EasyFacebookFragmentActivity.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366883250902" ignored="false" />
+    <file path="/EasyFacebookFragmentActivity.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367927824291" ignored="false" />
     <file path="$USER_HOME$/Downloads/facebook-android-sdk-master/samples/GraphApiSample/project.properties" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366802138875" ignored="false" />
     <file path="$USER_HOME$/Downloads/facebook-android-sdk-master/samples/SessionLoginSample/project.properties" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366802060362" ignored="false" />
     <file path="$USER_HOME$/Downloads/facebook-android-sdk-master/samples/FriendPickerSample/project.properties" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366802186042" ignored="false" />
@@ -43,8 +44,7 @@
     <file path="$USER_HOME$/Downloads/facebook-android-sdk-master/samples/Hackbook/project.properties" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366802051061" ignored="false" />
     <file path="$USER_HOME$/Downloads/facebook-android-sdk-master/samples/PlacePickerSample/project.properties" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366802106387" ignored="false" />
     <file path="$USER_HOME$/Downloads/facebook-android-sdk-master/samples/HelloFacebookSample/project.properties" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366802051061" ignored="false" />
-    <file path="$USER_HOME$/Downloads/facebook-android-sdk-master/samples/BooleanOGSample/project.properties" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366802197966" ignored="false" />
-    <file path="/activity_home.xml" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366815255550" ignored="false" />
+    <file path="/activity_home.xml" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367924204356" ignored="false" />
     <file path="$PROJECT_DIR$/EasyFacebookConnect/thirds/FacebookSDK/res/values/strings.xml" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366878120436" ignored="false" />
     <file path="$PROJECT_DIR$/EasyFacebookConnect/thirds/FacebookSDK/res/values/styles.xml" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366878120436" ignored="false" />
     <file path="$PROJECT_DIR$/EasyFacebookConnect/thirds/FacebookSDK/res/values/attrs.xml" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366878120436" ignored="false" />
@@ -54,6 +54,10 @@
     <file path="/EasyUploadPhotoListener.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366882380581" ignored="false" />
     <file path="$PROJECT_DIR$/EasyFacebookConnect/gen/com/menor/easyfacebookconnect/R.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366886367162" ignored="false" />
     <file path="$PROJECT_DIR$/EasyFacebookConnect/gen/com/menor/easyfacebookconnect/BuildConfig.java" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1366886557011" ignored="false" />
+    <file path="/strings.xml" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367923069370" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/android/lib/android.jar!/org/jetbrains/android/android.xsd" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367912183609" ignored="false" />
+    <file path="/dimens.xml" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367923983367" ignored="false" />
+    <file path="/README.md" changelist="334311a2-4aea-47e2-b76f-1dd175fb1277" time="1367931980147" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +65,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -68,6 +77,69 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookFragmentActivity.java" line="133" class="com.menor.easyfacebookconnect.ui.EasyFacebookFragmentActivity" package="com.menor.easyfacebookconnect.ui">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookFragmentActivity.java" line="390" class="com.menor.easyfacebookconnect.ui.EasyFacebookFragmentActivity" package="com.menor.easyfacebookconnect.ui">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/src/com/menor/easyfacebookconnect/samples/HomeActivity.java" line="123" class="com.menor.easyfacebookconnect.samples.HomeActivity" package="com.menor.easyfacebookconnect.samples">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/src/com/menor/easyfacebookconnect/samples/HomeActivity.java" line="38" class="com.menor.easyfacebookconnect.samples.HomeActivity" package="com.menor.easyfacebookconnect.samples">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -104,84 +176,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookActivity.java" line="254" class="com.menor.easyfacebookconnect.ui.EasyFacebookActivity$3" package="com.menor.easyfacebookconnect.ui">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookActivity.java" line="169" class="com.menor.easyfacebookconnect.ui.EasyFacebookActivity.SessionStatusCallback" package="com.menor.easyfacebookconnect.ui">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookActivity.java" line="174" class="com.menor.easyfacebookconnect.ui.EasyFacebookActivity.SessionStatusCallback" package="com.menor.easyfacebookconnect.ui">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookActivity.java" line="179" class="com.menor.easyfacebookconnect.ui.EasyFacebookActivity.SessionStatusCallback" package="com.menor.easyfacebookconnect.ui">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookActivity.java" line="185" class="com.menor.easyfacebookconnect.ui.EasyFacebookActivity.SessionStatusCallback" package="com.menor.easyfacebookconnect.ui">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -190,17 +184,7 @@
     <favorites_list name="EasyFacebookConnect" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="HomeActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/src/com/menor/easyfacebookconnect/samples/HomeActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="46" selection-start="2651" selection-end="2651" vertical-scroll-proportion="1.3091716">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -210,29 +194,32 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/preference/UserPreference.java" />
-        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/preference/ResponsePreference.java" />
-        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/model/FacebookUser.java" />
-        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/model/FacebookResponse.java" />
-        <option value="$PROJECT_DIR$/EasyFacebookConnect-Samples/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/EasyFacebookConnect-Samples/res/layout/activity_home.xml" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/EasyUploadStatusListener.java" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/EasyUploadPhotoListener.java" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/EasySessionListener.java" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/FacebookAppListener.java" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookActivity.java" />
-        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookFragmentActivity.java" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/EasyFacebookConnect-Samples/src/com/menor/easyfacebookconnect/samples/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/EasyActionListener.java" />
         <option value="$PROJECT_DIR$/EasyFacebookConnect-Samples/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/EasyFacebookConnect-Samples/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/EasyFacebookConnect-Samples/res/layout/activity_home.xml" />
+        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/preference/UserPreference.java" />
+        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/model/FacebookUser.java" />
+        <option value="$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookFragmentActivity.java" />
+        <option value="$PROJECT_DIR$/EasyFacebookConnect-Samples/src/com/menor/easyfacebookconnect/samples/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1680" />
-    <option name="height" value="1024" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -260,6 +247,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,44 +256,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EasyFacebookConnect" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SwitchUserSample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EasyFacebookConnect" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EasyFacebookConnect-Samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EasyFacebookConnect" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EasyFacebookConnect-Samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,7 +270,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="File.Encoding" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/facebook-android-sdk-master/samples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EasyFacebookConnect/contrib/FacebookSDK" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -325,8 +278,8 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -392,6 +345,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -417,19 +383,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -500,28 +453,9 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Examples" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="GraphApiSample" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="true" />
-      <RunnerSettings RunnerId="AndroidDebugRunner" />
-      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
-      <method />
-    </configuration>
-    <list size="3">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android Application.EasyFacebookConnect-Samples" />
-      <item index="1" class="java.lang.String" itemvalue="Android Application.Examples" />
-      <item index="2" class="java.lang.String" itemvalue="Android Tests.ProfilePictureSample" />
+      <item index="1" class="java.lang.String" itemvalue="Android Tests.ProfilePictureSample" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -534,6 +468,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="334311a2-4aea-47e2-b76f-1dd175fb1277" name="Default" comment="" />
@@ -542,30 +493,50 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.7858672" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35129312" sideWeight="0.77055705" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993576" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39920425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.6777188" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32334048" sideWeight="0.99573106" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27730194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2239902" sideWeight="0.7223451" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22944297" sideWeight="0.99573106" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3938992" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22341955" sideWeight="0.7223451" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24235006" sideWeight="0.7787611" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22123894" sideWeight="0.9989328" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20444763" sideWeight="0.7798408" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22015916" sideWeight="0.9989328" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6006424" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.6006424" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.77055705" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.77055705" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -604,7 +575,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -637,119 +608,120 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/model/FacebookResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="11" selection-start="874" selection-end="874" vertical-scroll-proportion="0.5882353">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/res/drawable-xhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/model/FacebookUser.java">
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/EasyActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="213" selection-end="1074" vertical-scroll-proportion="0.10428737">
-          <folding />
-        </state>
+        <state line="17" column="71" selection-start="393" selection-end="402" vertical-scroll-proportion="0.43399638" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/facebook-android-sdk-master/samples/ProfilePictureSample/src/com/facebook/samples/profilepicture/ProfilePictureSampleFragment.java">
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/res/values/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="246" column="1" selection-start="9051" selection-end="9051" vertical-scroll-proportion="0.4631728" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/facebook-android-sdk-master/samples/ProfilePictureSample/src/com/facebook/samples/profilepicture/ProfilePictureSampleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="736" selection-end="736" vertical-scroll-proportion="0.12747875" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/FacebookAppListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="52" selection-start="346" selection-end="346" vertical-scroll-proportion="0.21246459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/EasySessionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="189" selection-end="189" vertical-scroll-proportion="0.08498584">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="33" selection-start="410" selection-end="410" vertical-scroll-proportion="0.2549575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookFragmentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="256" column="151" selection-start="8696" selection-end="8696" vertical-scroll-proportion="0.3838527">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="284" column="7" selection-start="6466" selection-end="9663" vertical-scroll-proportion="1.1062323">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="83" selection-end="83" vertical-scroll-proportion="0.08498584">
+        <state line="6" column="39" selection-start="217" selection-end="217" vertical-scroll-proportion="0.12396694">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/res/layout/activity_home.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="525" selection-end="525" vertical-scroll-proportion="0.18262151">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/facebook-android-sdk-master/samples/SwitchUserSample/SwitchUserSample.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/facebook-android-sdk-master/samples/SwitchUserSample/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="175" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.42492917">
+        <state line="60" column="38" selection-start="2282" selection-end="2282" vertical-scroll-proportion="0.38086304">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="35" selection-start="152" selection-end="152" vertical-scroll-proportion="0.088757396">
+        <state line="37" column="30" selection-start="1702" selection-end="1702" vertical-scroll-proportion="0.78571427">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/AndroidManifest.xml">
+    <entry file="jar://$PROJECT_DIR$/libs/android-support-v4.jar!/android/support/v4/app/FragmentActivity.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="332" selection-end="332" vertical-scroll-proportion="0.22189349">
+        <state line="33" column="19" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.348659">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/android-sdk-macosx/sources/android-16/android/os/Bundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="19" selection-start="977" selection-end="977" vertical-scroll-proportion="0.26785713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/contrib/FacebookSDK/src/com/facebook/LoggingBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="4" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.45535713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/model/FacebookUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="34" selection-start="766" selection-end="766" vertical-scroll-proportion="0.4729412">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/model/FacebookResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="16" selection-start="386" selection-end="386" vertical-scroll-proportion="0.4368932">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/preference/UserPreference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="767" selection-end="767" vertical-scroll-proportion="0.3317647">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/contrib/FacebookSDK/src/com/facebook/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="727" column="32" selection-start="29367" selection-end="29367" vertical-scroll-proportion="2.1317647">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyFacebookConnect-Samples/src/com/menor/easyfacebookconnect/samples/HomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="46" selection-start="2651" selection-end="2651" vertical-scroll-proportion="1.3091716">
+        <state line="87" column="24" selection-start="2752" selection-end="2752" vertical-scroll-proportion="2.0747664">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/src/com/menor/easyfacebookconnect/ui/EasyFacebookFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="29" selection-start="4467" selection-end="4480" vertical-scroll-proportion="3.1809871">
+          <folding>
+            <element signature="e#6337#7077#0" expanded="true" />
+            <element signature="e#7065#7066#0" expanded="true" />
+            <element signature="e#9179#9554#0" expanded="true" />
+            <element signature="e#9542#9543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyFacebookConnect/contrib/FacebookSDK/src/com/facebook/UiLifecycleHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="16" selection-start="2485" selection-end="2485" vertical-scroll-proportion="0.25178573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="16" selection-start="367" selection-end="367" vertical-scroll-proportion="0.21937843">
           <folding />
         </state>
       </provider>
@@ -806,7 +778,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ProfilePictureSample</last-edited>
+          <last-edited>EasyFacebookConnect</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

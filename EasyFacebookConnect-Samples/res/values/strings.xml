@@ -2,6 +2,39 @@
 <resources>
 
     <string name="app_name">EasyFacebookConnect-Samples</string>
-    <string name="applicationId"></string>
+
+    <string name="applicationId">252741634762797</string>
+
+    <string name="features">Features</string>
+    <string name="wall_features">Wall features</string>
+    <string name="page_features">Page features</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+
+    <string name="facebook_connect">Connect to Facebook</string>
+
+    <string name="logging">Logging to Facebook…</string>
+    <string name="login_successfully">Login successfully.</string>
+
+    <string name="upload_image_wall">Upload image to wall</string>
+    <string name="uploading_image_wall">Uploading image to wall…</string>
+    <string name="upload_image_wall_success">Image uploaded successfully.</string>
+
+    <string name="upload_status_wall">Upload status to wall</string>
+    <string name="uploading_status_wall">Uploading status to wall…</string>
+    <string name="upload_status_wall_success">Status uploaded successfully.</string>
+
+    <string name="upload_image_page">Share image to page</string>
+    <string name="uploading_image_page">Sharing image to page…</string>
+    <string name="upload_image_page_success">Image shared successfully.</string>
+
+    <string name="upload_status_page">Share status to page</string>
+    <string name="uploading_status_page">Sharing status to page…</string>
+    <string name="upload_image_status_page_success">Status shared successfully.</string>
+
+    <string name="upload_url_image_page">Share image url to page</string>
+    <string name="uploading_url_image_page">Sharing image url to page…</string>
+    <string name="upload_url_image_page_success">Url image shared successfully.</string>
 
 </resources>

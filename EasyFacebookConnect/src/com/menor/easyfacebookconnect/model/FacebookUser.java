@@ -13,7 +13,11 @@ public class FacebookUser {
     }
 
     public void storeUser(GraphUser user) {
-        userPreference.storeUser(user.getFirstName(), user.getLastName(), user.getBirthday(), user.getId(), user.getUsername(), (String) user.getLocation().getProperty("name"));
+    	String location = null;
+    	if (user.getLocation() != null) {
+    		location = (String) user.getLocation().getProperty("name");
+    	}
+        userPreference.storeUser(user.getFirstName(), user.getLastName(), user.getBirthday(), user.getId(), user.getUsername(), location);
     }
 
     public String getFirstName() {

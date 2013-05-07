@@ -23,6 +23,7 @@
     <orderEntry type="jdk" jdkName="Android 4.1.2 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="EasyFacebookConnect" exported="" />
+    <orderEntry type="module" module-name="FacebookSDK1" />
   </component>
 </module>
 

@@ -38,7 +38,7 @@ public class UserPreference extends FacebookPreference {
     }
 
     public String getId() {
-        return pref.getString(USER_BIRTHDAY, null);
+        return pref.getString(USER_ID, null);
     }
 
     public String getUserName() {

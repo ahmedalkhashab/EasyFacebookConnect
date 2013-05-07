@@ -8,7 +8,7 @@ import com.facebook.SessionState;
 /**
  * This listener is called with the results of a facebook user data with specific session attempt
  */
-public interface FacebookAppListener {
+public interface EasyLoginFacebookListener {
 
     /**
      * Callbacks

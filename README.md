@@ -1,21 +1,32 @@
-EasyFacebookConnect
-===================
+EasyFacebookConnect v 2.0
+=========================
 
-EasyFacebookConnect is an Android library which makes life easier for the developer who wants to user Facebook SDK. You won't need to spend a few hours learning Facebook SDK for trying to implement login and other features.
+EasyFacebookConnect is an Android library which makes life easier for the developer who wants to user Facebook SDK 3.0.1. You won't need to spend a few hours learning Facebook SDK for trying to implement login and other features.
 
 Currently, it provides following features:
 
 * Login with Facebook.
 * Get User information.
-* Upload user status to desired application.
-* Upload photo to desired application.
+* Upload user status to the own wall.
+* Upload photo to the own wall.
+
+** New features
+* Share status to any page (including your wall url: me/feed)
+* Share image url's to any page (including your wall url: me/feed)
+* Share image bitmao to any page (including your wall url: me/photos);
 
 
 Screenshots
 -----------
 
 <a>
-  <img src="http://img690.imageshack.us/img690/8693/screen1sdc.png">
+  <img src="http://imageshack.us/a/img402/9067/20130507145531.png">
+</a>
+<a>
+  <img src="http://imageshack.us/a/img594/7545/20130507143824.png">
+</a>
+<a>
+  <img src="http://imageshack.us/a/img802/9900/20130507130151.png">
 </a>
 
 
