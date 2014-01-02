@@ -1,6 +1,10 @@
 EasyFacebookConnect v 2.0
 =========================
 
+[![Analytics](https://ga-beacon.appspot.com/UA-21351045-2/m3n0r/EasyFacebookConnect)](https://github.com/igrigorik/ga-beacon)
+
+
+
 EasyFacebookConnect is an Android library which makes life easier for the developer who wants to user Facebook SDK 3.0.1. You won't need to spend a few hours learning Facebook SDK for trying to implement login and other features.
 
 Currently, it provides following features:
